@@ -4,7 +4,6 @@ title: "简历"
 share-title: "王潇扬 - 简历"
 css: "/assets/css/resume.css"
 lang: zh
-navbar-links: navbar-links-zh
 ---
 
 <div class="resume-container">

@@ -6,7 +6,6 @@ share-title: "王潇扬 - 关于我"
 css: "/assets/css/aboutme.css"
 ext-css: "https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
 lang: zh
-navbar-links: navbar-links-zh
 ---
 
 ## 👋 你好！我是王潇扬

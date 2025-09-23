@@ -1,0 +1,100 @@
+/* Global Language Toggle Styles */
+.global-lang-toggle {
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 25px;
+  padding: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.lang-toggle-container {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.global-lang-toggle .lang-btn {
+  padding: 8px 12px;
+  border: none;
+  background: transparent;
+  color: #666;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.global-lang-toggle .lang-btn:hover {
+  color: #008AFF;
+  background: rgba(0, 138, 255, 0.1);
+}
+
+.global-lang-toggle .lang-btn.active {
+  background: #008AFF;
+  color: white;
+}
+
+/* Navbar language toggle (for Beautiful Jekyll theme) */
+.navbar-nav .lang-toggle {
+  color: #777 !important;
+  font-weight: 500;
+}
+
+.navbar-nav .lang-toggle:hover {
+  color: #008AFF !important;
+}
+
+.navbar-nav .lang-toggle .fas {
+  margin-right: 5px;
+}
+
+.dropdown-menu .lang-switch {
+  padding: 8px 20px;
+  transition: all 0.3s ease;
+}
+
+.dropdown-menu .lang-switch:hover {
+  background-color: #f8f9fa;
+  color: #008AFF;
+}
+
+.dropdown-menu .lang-switch .fas {
+  margin-right: 8px;
+  color: #666;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .global-lang-toggle {
+    top: 5px;
+    right: 10px;
+    padding: 3px;
+  }
+  
+  .global-lang-toggle .lang-btn {
+    padding: 6px 10px;
+    font-size: 0.8rem;
+  }
+}
+
+/* Integration with Beautiful Jekyll navbar */
+@media (min-width: 768px) {
+  .navbar-custom .navbar-nav .nav-item.dropdown:last-child {
+    margin-left: 15px;
+  }
+}
+
+/* Hide on print */
+@media print {
+  .global-lang-toggle,
+  .nav-item.dropdown .lang-toggle {
+    display: none !important;
+  }
+}

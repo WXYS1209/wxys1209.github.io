@@ -22,9 +22,19 @@ description: >-
 ###############################################
 
 navbar-links:
-  Home: "page"
+  Home: "/"
   About Me: "aboutme"
+  Projects: "projects"
+  Resume: "resume"
   # Blog: "/"
+
+# Chinese navigation links
+navbar-links-zh:
+  首页: "/index-zh"
+  关于我: "/aboutme-zh"
+  项目展示: "/projects-zh"
+  简历: "/resume-zh"
+  # 博客: "/"
 
 ################
 # --- Logo --- #
@@ -77,6 +87,14 @@ post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 keywords: "personal blog,technology,programming,software development"
+
+# For any extra visual customization, you can include additional CSS files in every page on your site
+site-css:
+  - "/assets/css/global-lang.css"
+
+# If you have common JavaScript files that should be included in every page, list them here
+site-js:
+  - "/assets/js/language-toggle.js"
 
 ######################################
 # --- Colours / background image --- #

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Resume
+title: "Resume"
+share-title: "Wang Xiaoyang - Resume"
 css: "/assets/css/resume.css"
 lang: en
 ---

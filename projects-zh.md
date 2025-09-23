@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 项目展示
+title: "项目展示"
+share-title: "王潇扬 - 项目展示"
 subtitle: 我的作品集与研究项目
 css: "/assets/css/projects.css"
 lang: zh

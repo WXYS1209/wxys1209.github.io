@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About me
+title: "About me"
+share-title: "Wang Xiaoyang - About me"
 # subtitle: Data Scientist & Statistics Graduate
 css: "/assets/css/aboutme.css"
 ext-css: "https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css"
@@ -162,7 +163,7 @@ I'm a passionate data scientist with an MSc in Statistics and Data Science. I lo
     </div>
   </div>
 
-  <h3>� Data Science Libraries & Frameworks</h3>
+  <h3>� Tools & Frameworks</h3>
   <div class="skills-grid">
     <div class="skill-item">
       <div class="skill-header">
@@ -201,6 +202,13 @@ I'm a passionate data scientist with an MSc in Statistics and Data Science. I lo
     
     <div class="skill-item">
       <div class="skill-header">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" class="skill-icon">
+        <span class="skill-name">Transformers</span>
+      </div>
+    </div>
+    
+    <div class="skill-item">
+      <div class="skill-header">
         <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/shiny.svg" alt="Shiny" class="skill-icon">
         <span class="skill-name">Shiny</span>
       </div>
@@ -219,10 +227,7 @@ I'm a passionate data scientist with an MSc in Statistics and Data Science. I lo
         <span class="skill-name">VectorBT</span>
       </div>
     </div>
-  </div>
 
-  <h3>🗄️ Databases & Tools</h3>
-  <div class="skills-grid">
     <div class="skill-item">
       <div class="skill-header">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" class="skill-icon">

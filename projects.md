@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Projects
+title: "Projects"
+share-title: "Wang Xiaoyang - Projects"
 subtitle: My Portfolio & Research Projects
 css: "/assets/css/projects.css"
 lang: en

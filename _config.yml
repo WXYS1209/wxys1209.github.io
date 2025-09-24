@@ -53,14 +53,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 social-network-links:
   email: "xywang191209@gmail.com"
-  rss: true
+  # rss: true
   github: WXYS1209
   # twitter: yourusername
   # linkedin: yourusername
   # facebook: yourusername
 
 # If you want your website to generate an RSS feed, provide a description
-rss-description: "Personal blog sharing technology insights and experiences"
+# rss-description: "Personal blog sharing technology insights and experiences"
 
 ###########################
 # --- General options --- #

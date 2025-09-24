@@ -84,7 +84,7 @@ Welcome to my project portfolio! Here you'll find various projects showcasing my
         </div>
       </div>
       <div class="project-description">
-        <p>Developed an online dashboard for data cleaning, visualization, and analysis for the Wisconsin Seed Potato Certification Program. This project helps agricultural departments better manage and analyze potato quality data.</p>
+        <p>Developed an online dashboard for data cleaning, visualization, and analysis for the Wisconsin Seed Potato Certification Program. This project helps agricultural departments better manage and analyze potato seed quality data.</p>
       </div>
       <div class="project-tags">
         <span class="tag">R</span>

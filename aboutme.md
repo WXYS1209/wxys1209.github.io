@@ -52,7 +52,7 @@ I'm a passionate data scientist with an MSc in Statistics and Data Science. I lo
       <div class="timeline-description">
         <ul>
           <li><a href="https://issuu.com/bctater/docs/february_2025_badger_common_tater">Developed an online dashboard for data cleaning, visualization, and analysis for the Wisconsin Seed Potato Certification Program</a></li>
-          <li>Conducted statistical research focusing on hypothesis testing in BHV tree space</li>
+          <li>Conducted research focusing on hypothesis testing in BHV tree space</li>
         </ul>
       </div>
     </div>

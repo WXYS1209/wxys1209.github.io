@@ -35,11 +35,11 @@ lang: zh
         <span class="tag">VectorBT</span>
         <span class="tag">量化分析</span>
       </div>
-      <div class="project-links">
+      <!-- <div class="project-links">
         <a href="https://github.com/WXYS1209/quant_dffc" target="_blank" class="btn-link">
           <i class="fas fa-external-link-alt"></i> 代码库
         </a>
-      </div>
+      </div> -->
     </div>
   </div>
 

@@ -35,11 +35,11 @@ Welcome to my project portfolio! Here you'll find various projects showcasing my
         <span class="tag">VectorBT</span>
         <span class="tag">Quant</span>
       </div>
-      <div class="project-links">
+      <!-- <div class="project-links">
         <a href="https://github.com/WXYS1209/quant_dffc" target="_blank" class="btn-link">
           <i class="fas fa-external-link-alt"></i> Repo
         </a>
-      </div>
+      </div> -->
     </div>
   </div>
 
